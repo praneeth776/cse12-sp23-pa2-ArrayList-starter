@@ -80,7 +80,7 @@ public class MyArrayListHiddenTester {
      * Aims to test the insert method when input index is out of bounds
      */
     @Test
-    public void testInsertOutOfBound(){
+    public void testInsertOutOfBounds(){
        
     }
 
